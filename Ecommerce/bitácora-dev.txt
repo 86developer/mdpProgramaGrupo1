@@ -1,3 +1,5 @@
 Consultas Meet Lunes
 
 Se creo la carpeta de Sass
+Falta importar al archivo app.jsx
+import './scss/app.scss'
