@@ -1,3 +1,20 @@
+.navbar-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.d-flex .btn {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    background-color: #5086c1;
+    color: white;
+}
+
+.d-flex .btn:hover {
+    background-color: #75c2f9;
+}
+
 .banner {
     background-size: center;
     background-position: center;
@@ -11,26 +28,32 @@
 }
 
 .banner-content {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(255, 203, 164, 0.9);
     /* Fondo semi-transparente */
     padding: 20px;
     border-radius: 8px;
 }
 
 .banner h1 {
-    font-size: 36px;
+    font-family: 'Alex Brush', cursive;
+    font-weight: 400;
+    font-size: 45px;
     margin: 0;
 }
 
 .banner p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     font-size: 18px;
     margin-bottom: 20px;
 }
 
 .banner .btn {
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
-    background-color: #007bff;
+    background-color: #5086c1;
     color: white;
+    border: none !important;
     padding: 10px 20px;
     border-radius: 5px;
     font-size: 18px;
@@ -38,5 +61,5 @@
 }
 
 .banner .btn:hover {
-    background-color: #0056b3;
+    background-color: #75c2f9;
 }
