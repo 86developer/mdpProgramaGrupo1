@@ -1,24 +1,18 @@
-
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import Navbar from './navbar';
+import Header from './header';
 
 function App() {
 
   return (
     <>
-      <div className='logo'>
-        <h2>Proximamente</h2>
-        <h1>Luna Mora</h1>
-        <p>Lenceria de Autor</p>
-      </div>
-
-      <div className="card">
+      <div>
+        <Navbar />
+        <Header />
 
       </div>
-
     </>
   )
 }
 
-export default App
+export default App;
