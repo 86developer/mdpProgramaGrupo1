@@ -7,9 +7,7 @@ function Navbar() {
                 <div class="container-fluid">
                     <div class="navbar-brand">
                         <div class="d-flex flex-column align-items-center">
-                            <a class="fs-2" href="#">Luna Mora</a>
-                            <span class="fs-6" href="#">Lenceria de autor</span>
-
+                            <img class="logo" src="./src/assets/Lunafondo.png" href="index.html" alt="Luna Mora Logo" />
                         </div>
                     </div>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
