@@ -1,4 +1,6 @@
 import './App.css'
+import './Index.css'
+
 import Navbar from './navbar';
 import Header from './header';
 
