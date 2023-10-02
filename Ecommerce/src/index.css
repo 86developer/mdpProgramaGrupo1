@@ -4,21 +4,23 @@
   line-height: 1;
   font-weight: 400;
   background-color: #000000;
-  --color-primario: #fcb7af;
-  --color-secundario: #fdfd96;
-
-
+  --color-blanco: #fff;
+  --color-uno: #fdcae1;
+  --color-dos: #9bfab0;
+  --color-tres: #73d9bc;
+  --color-cuatro: #d7a1f6;
+  --color-cinco: #ffb888;
 }
 
 .navbar {
-  background-color: #ffcba4;
-  color: var(--color-secundario);
+  background-color: var(--color-uno);
+  color: var(--color-uno);
 }
 
 .nav-link,
 .form-control {
   font-family: 'Roboto', sans-serif;
-  color: #ffe4e1;
+  color: var(--color-blanco);
 }
 
 a {
