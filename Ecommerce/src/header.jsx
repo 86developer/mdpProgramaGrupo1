@@ -1,4 +1,4 @@
-import './App.css'
+
 import bannerImage from '../src/assets/banner.jpeg';
 
 function Header() {
