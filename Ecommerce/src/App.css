@@ -1,3 +1,12 @@
+.logo {
+    width: 150px;
+    /* Ajusta el tamaño según tus necesidades */
+    height: auto;
+    margin-right: 20px;
+    /* Espaciado entre el logo y otros elementos */
+    padding: 0;
+}
+
 .navbar-nav {
     display: flex;
     align-items: center;
