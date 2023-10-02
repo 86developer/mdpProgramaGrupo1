@@ -3,3 +3,4 @@ Consultas Meet Lunes
 Se creo la carpeta de Sass
 Falta importar al archivo app.jsx
 import './scss/app.scss'
+Fusion de grupos, consultar meet con equipo completo.
