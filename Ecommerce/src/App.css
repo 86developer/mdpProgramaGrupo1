@@ -33,11 +33,11 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: white;
+    color: var(--color-blanco);
 }
 
 .banner-content {
-    background-color: rgba(255, 203, 164, 0.9);
+    background-color: var(--color-uno);
     /* Fondo semi-transparente */
     padding: 20px;
     border-radius: 8px;
